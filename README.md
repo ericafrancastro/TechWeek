@@ -46,7 +46,7 @@ O site destaca essa orientação e sua relação com as regras numeradas, as dep
 - Modo apresentação e navegação por teclado.
 - Layout responsivo para computador, tablet e celular.
 
-No computador, a estrutura ocupa a coluna menor à esquerda e a análise da adaptação fica à direita. No celular, a estrutura aparece antes da análise.
+No computador, a estrutura ocupa a coluna menor à esquerda e a análise da adaptação fica à direita. No celular, as três adaptações ficam lado a lado em uma navegação compacta, com as opções de prompt em cada uma. O conteúdo é atualizado logo abaixo, com a estrutura antes da análise.
 
 ## Sobre os conteúdos
 
