@@ -48,25 +48,4 @@ O site destaca essa orientação e sua relação com as regras numeradas, as dep
 - Layout responsivo para computador, tablet e celular.
 
 No computador, a estrutura ocupa a coluna menor à esquerda e a análise da adaptação fica à direita. No celular, as três adaptações ficam lado a lado em uma navegação compacta, com as opções de prompt em cada uma. O conteúdo é atualizado logo abaixo, com a estrutura antes da análise.
-
-## Sobre os conteúdos
-
-Os prompts originais das três adaptações estão disponíveis para leitura e comparação. Os títulos das etapas, os resumos e os destaques são sínteses explicativas, separadas dos textos originais.
-
-A timeline preserva a evolução registrada nos documentos: orientações que surgiram em uma adaptação não são acrescentadas retroativamente às anteriores. Isso inclui o tratamento explícito de evidências e a referência aos princípios de SDD na terceira versão completa.
-
-A identificação “Astra” é mantida conforme o terceiro documento. As comparações mostram mudanças nas orientações escritas, sem representar testes de desempenho de modelos de IA.
-
-O site funciona como material de apoio à apresentação e de consulta posterior. Seu papel é permitir explorar os prompts, entender suas diferenças e acompanhar o processo de refinamento. Ele não executa os prompts nem gera especificações automaticamente.
-
-## Ferramentas ao longo das adaptações
-
-| Adaptação | Ferramentas utilizadas | Modelo LLM informado |
-| --- | --- | --- |
-| 1ª | Lovable sem integração com ChatGPT; ChatGPT apenas pelo chat. | Sol |
-| 2ª | Lovable integrado ao ChatGPT; ChatGPT; ChatGPT Codex(IDE) com MCP. | Sol |
-| 3ª | Lovable integrado ao ChatGPT; ChatGPT; ChatGPT Codex(IDE) com MCP. | Astra |
-
-Esse histórico foi informado pelo responsável pela apresentação. Os botões de ajuda explicam as ferramentas e os conceitos, com links para materiais da UFSC e da Alura. As referências fundamentam as explicações conceituais; não demonstram resultados de desempenho dos modelos.
-
-A terceira adaptação destaca o contexto técnico integrado: o uso de documentação e elementos do sistema realmente fornecidos ou consultados para fundamentar a especificação. O texto original dos prompts permanece preservado.
+mentar a especificação. O texto original dos prompts permanece preservado.
