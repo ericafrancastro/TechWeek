@@ -42,7 +42,8 @@ O site destaca essa orientação e sua relação com as regras numeradas, as dep
 - Resumos das principais mudanças e do que permaneceu igual.
 - Leitura e cópia dos prompts integrais.
 - Comparação entre versões consecutivas, com trechos selecionados e diferenças textuais completas.
-- Download dos documentos Markdown originais.
+- Lista compacta de ferramentas por adaptação, com botões que abrem explicações curtas.
+- Referências de sites brasileiros, em português, para prompts, requisitos de software, MCP, ferramentas de IA e SDD.
 - Modo apresentação e navegação por teclado.
 - Layout responsivo para computador, tablet e celular.
 
@@ -57,3 +58,15 @@ A timeline preserva a evolução registrada nos documentos: orientações que su
 A identificação “Astra” é mantida conforme o terceiro documento. As comparações mostram mudanças nas orientações escritas, sem representar testes de desempenho de modelos de IA.
 
 O site funciona como material de apoio à apresentação e de consulta posterior. Seu papel é permitir explorar os prompts, entender suas diferenças e acompanhar o processo de refinamento. Ele não executa os prompts nem gera especificações automaticamente.
+
+## Ferramentas ao longo das adaptações
+
+| Adaptação | Ferramentas utilizadas | Modelo LLM informado |
+| --- | --- | --- |
+| 1ª | Lovable sem integração com ChatGPT; ChatGPT apenas pelo chat. | Sol |
+| 2ª | Lovable integrado ao ChatGPT; ChatGPT; ChatGPT Codex(IDE) com MCP. | Sol |
+| 3ª | Lovable integrado ao ChatGPT; ChatGPT; ChatGPT Codex(IDE) com MCP. | Astra |
+
+Esse histórico foi informado pelo responsável pela apresentação. Os botões de ajuda explicam as ferramentas e os conceitos, com links para materiais da UFSC e da Alura. As referências fundamentam as explicações conceituais; não demonstram resultados de desempenho dos modelos.
+
+A terceira adaptação destaca o contexto técnico integrado: o uso de documentação e elementos do sistema realmente fornecidos ou consultados para fundamentar a especificação. O texto original dos prompts permanece preservado.
